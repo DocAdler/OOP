@@ -16,28 +16,6 @@ public class Car {
         this.wheels = wheels;
     }
 
-    public void setCarBodyColor(String carBodyColor) {
-        carBody.changeColor(carBodyColor);
-    }
-
-    public void setCarBodyType(String carBodyType) {
-        carBody.changeType(carBodyType);
-    }
-
-    public void setSteeringWheelDiameter(Integer steeringWheelDiameter) {
-        steeringWheel.changeDiameter(steeringWheelDiameter);
-    }
-
-    public void setWheelsDiameter(Integer wheelsDiameter) {
-        wheels.changeDiameter(wheelsDiameter);
-    }
-
-    public void setWheelsType(String wheelsType) {
-        wheels.changeType(wheelsType);
-    }
-
-
-
     public Integer getAge() {
         return age;
     }

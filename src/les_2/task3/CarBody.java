@@ -10,14 +10,6 @@ public class CarBody {
         this.type = type;
     }
 
-    public void changeColor(String color) {
-        this.color = color;
-    }
-
-    public void changeType(String type) {
-        this.type = type;
-    }
-
     public String getColor() {
         return color;
     }

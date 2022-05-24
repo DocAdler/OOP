@@ -10,14 +10,6 @@ public class Wheels {
         this.type = type;
     }
 
-    public void changeDiameter(int diameter) {
-        this.diameter = diameter;
-    }
-
-    public void changeType(String type) {
-        this.type = type;
-    }
-
     public Integer getDiameter() {
         return diameter;
     }

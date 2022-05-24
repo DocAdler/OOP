@@ -8,10 +8,6 @@ public class SteeringWheel {
         this.diameter = diameter;
     }
 
-    public void changeDiameter(Integer diameter) {
-        this.diameter = diameter;
-    }
-
     public Integer getDiameter() {
         return diameter;
     }
