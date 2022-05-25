@@ -30,7 +30,7 @@ public class Fighting {
                 System.out.println(warriors.get(choice2).getName() + " мёртв.");
                 warriors.remove(warriors.get(choice2));
 
-                System.out.println("осталось воинов : " + warriors.size() + "\n");
+                System.out.println("Осталось воинов : " + warriors.size() + "\n");
 
                 if (warriors.size() == 1) {
                     System.out.println(warriors.get(0).getName() + " is win!");

@@ -25,4 +25,9 @@ public class Weapon {
     public void setDamage(Integer damage) {
         this.damage = damage;
     }
+
+    @Override
+    public String toString() {
+        return name + " (урон = " + damage + ")";
+    }
 }
