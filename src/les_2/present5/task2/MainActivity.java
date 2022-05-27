@@ -26,7 +26,7 @@ public class MainActivity {
         warrior3.setWeapon(new RandomWeapon().randomWeapon());
         warrior3.setHp(250);
 
-        System.out.println();
+        System.out.println("------------------------------------");
 
         System.out.println(warrior1);
         System.out.println(warrior2);
