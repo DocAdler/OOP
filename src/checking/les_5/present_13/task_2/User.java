@@ -1,6 +1,5 @@
 package checking.les_5.present_13.task_2;
 
-import org.jetbrains.annotations.NotNull;
 
 public class User implements Comparable<User>{
 
@@ -13,7 +12,7 @@ public class User implements Comparable<User>{
     }
 
     @Override
-    public int compareTo(@NotNull User user) {
+    public int compareTo(User user) {
         int result = this.name.compareTo(user.name);
         if (result == 0) {
             result = this.email.compareTo(user.email);
