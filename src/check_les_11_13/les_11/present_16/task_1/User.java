@@ -1,4 +1,4 @@
-package check_11_13.les_11.present_16.task_1;
+package check_les_11_13.les_11.present_16.task_1;
 
 public class User {
 

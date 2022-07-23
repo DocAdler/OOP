@@ -8,7 +8,7 @@
  * 6. викликати 2 методи (один - з параметрами, другий - без параметрів).
  */
 
-package check_11_13.les_11.present_16.task_1;
+package check_les_11_13.les_11.present_16.task_1;
 
 import java.lang.reflect.*;
 import java.util.ArrayList;
