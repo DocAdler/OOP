@@ -3,7 +3,7 @@
 �������� � ����������� 13 / les_5: ���������� ���������� �ᒺ��� ���� User �� �������� ������ (����������� Comparator)
  */
 
-package check_11_13.les_12.present_17.task_1;
+package check_les_11_13.les_12.present_17.task_1;
 
 import java.util.ArrayList;
 import java.util.Comparator;
