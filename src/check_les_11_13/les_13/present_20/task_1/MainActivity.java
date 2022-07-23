@@ -10,7 +10,7 @@
 
  */
 
-package check_11_13.les_13.present_20.task_1;
+package check_les_11_13.les_13.present_20.task_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

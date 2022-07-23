@@ -14,7 +14,7 @@
 звичайний порядок : 1, 1, 2, 3, 5
 зворотній порядок : 5, 3, 2, 1, 1
  */
-package check_11_13.les_13.present_20.task_2;
+package check_les_11_13.les_13.present_20.task_2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
